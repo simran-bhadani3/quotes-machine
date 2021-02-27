@@ -2,7 +2,7 @@
 	"name": "quote-generator",
 	"version": "0.1.0",
 	"private": true,
-	"engine": {
+	"engines": {
 		"node": "14.15.3"
 	},
 	"dependencies": {
